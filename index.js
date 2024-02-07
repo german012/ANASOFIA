@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Sabes cuanto siento cosas por ti')
+    alert('Sabes cuantas cosas siento por ti espero te guste')
 });
 
 const noBtn = document.querySelector('#noBtn');
